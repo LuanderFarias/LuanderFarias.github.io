@@ -1,0 +1,9 @@
+body{
+    background: #181818;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    vertical-align: center;
+}
