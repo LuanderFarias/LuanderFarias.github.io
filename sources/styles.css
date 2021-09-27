@@ -2,9 +2,18 @@ body{
     background: #181818;
 }
 
-h1{
+.content{
+    position: relative;
+    height: 150px;
+    background: #999FF0;
+}
+
+.content h1{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    vertical-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
 }
